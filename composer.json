@@ -19,6 +19,12 @@
             "email": "jaime.perez@uninett.no"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.luciditysoftware.com.au"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "SimpleSAML\\": "lib/SimpleSAML"
